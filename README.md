@@ -4,7 +4,7 @@ This repository contains Helm charts for installing Harness GitOps Agents.
 
 The charts can be added using following command:
 ```bash
-helm repo add gitops-agent https://harness.github.io/gitops-helm/
+helm repo add gitops-agent https://ashinsabu3.github.io/gitops-helm/
 ```
 
 Please refer to [Install a Harness GitOps Agent](https://developer.harness.io/docs/continuous-delivery/gitops/use-gitops/install-a-harness-git-ops-agent) for the steps needed to create and manage your agent installations.
