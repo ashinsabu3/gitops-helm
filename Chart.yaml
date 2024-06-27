@@ -1,0 +1,10 @@
+apiVersion: v2
+dependencies:
+- condition: argo-cd.enabled
+  name: argo-cd
+  repository: https://argoproj.github.io/argo-helm
+  version: 5.53.1
+description: A Helm chart for Harness GitOps Agent - for more information, please
+  visit https://developer.harness.io/docs/category/gitops.
+name: gitops-helm
+version: 1.1.8
